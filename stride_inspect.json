@@ -1,0 +1,651 @@
+{
+  "images": [
+    {
+      "src": "https://framerusercontent.com/images/ljLXmQezlil0mWuTbPPF05eDL4s.png?width=1920&height=1536",
+      "alt": "",
+      "class": null
+    },
+    {
+      "src": "https://framerusercontent.com/images/zgjCafxHEm6cI2gbQFJAxDWEXdU.png?width=1920&height=1536",
+      "alt": "",
+      "class": null
+    },
+    {
+      "src": "https://framerusercontent.com/images/QtgHij16C2iZHRLbeQRQnvRME.png?width=1920&height=1536",
+      "alt": "",
+      "class": null
+    }
+  ],
+  "ctas": [
+    {
+      "tag": "a",
+      "text": "Formo\u00ae",
+      "href": "../#top",
+      "class": [
+        "framer-8V3MU",
+        "framer-10tfjik",
+        "framer-v-10tfjik",
+        "framer-1lc2mky"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Projects",
+      "href": "../projects#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-ccrz4m"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "About",
+      "href": "../about#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-ccrz4m"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact",
+      "href": "../contact#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-ccrz4m"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Start a project",
+      "href": "../contact#top",
+      "class": [
+        "framer-5WkIW",
+        "framer-YXpXy",
+        "framer-1ka7nap",
+        "framer-v-12hqc75",
+        "framer-heqrsu"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Formo\u00ae",
+      "href": "../#top",
+      "class": [
+        "framer-8V3MU",
+        "framer-10tfjik",
+        "framer-v-10tfjik",
+        "framer-1lc2mky"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Projects",
+      "href": "../projects#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-ccrz4m"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "About",
+      "href": "../about#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-ccrz4m"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact",
+      "href": "../contact#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-ccrz4m"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Start a project",
+      "href": "../contact#top",
+      "class": [
+        "framer-5WkIW",
+        "framer-YXpXy",
+        "framer-1ka7nap",
+        "framer-v-12hqc75",
+        "framer-heqrsu"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Formo\u00ae",
+      "href": "../#top",
+      "class": [
+        "framer-8V3MU",
+        "framer-10tfjik",
+        "framer-v-10tfjik",
+        "framer-1lc2mky"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Vel\u014d \u203a",
+      "href": "./velo",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-ccrz4m"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Book a call",
+      "href": "../contact#top",
+      "class": [
+        "framer-5WkIW",
+        "framer-YXpXy",
+        "framer-1ka7nap",
+        "framer-v-1ka7nap",
+        "framer-heqrsu"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Formo\u00ae",
+      "href": "../#top",
+      "class": [
+        "framer-8V3MU",
+        "framer-10tfjik",
+        "framer-v-10tfjik",
+        "framer-1lc2mky"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Home",
+      "href": "../#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Projects",
+      "href": "../projects#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "About",
+      "href": "../about#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact",
+      "href": "../contact#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "X (Twitter)",
+      "href": "https://x.com/kadircalik",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "LinkedIn",
+      "href": "https://linkedin.com",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Instagram",
+      "href": "https://instagram.com",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "byKadir Calik",
+      "href": "https://x.com/kadircalik",
+      "class": [
+        "framer-rqU8p",
+        "framer-3VfYT",
+        "framer-r8pjzo",
+        "framer-v-r8pjzo",
+        "framer-1aq55ur"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Terms of Service",
+      "href": "../legal/terms-of-service#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Privacy",
+      "href": "../legal/privacy-policy#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Book a call",
+      "href": "../contact#top",
+      "class": [
+        "framer-5WkIW",
+        "framer-YXpXy",
+        "framer-1ka7nap",
+        "framer-v-1ka7nap",
+        "framer-heqrsu"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Formo\u00ae",
+      "href": "../#top",
+      "class": [
+        "framer-8V3MU",
+        "framer-10tfjik",
+        "framer-v-10tfjik",
+        "framer-1lc2mky"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Home",
+      "href": "../#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Projects",
+      "href": "../projects#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "About",
+      "href": "../about#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact",
+      "href": "../contact#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "X (Twitter)",
+      "href": "https://x.com/kadircalik",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "LinkedIn",
+      "href": "https://linkedin.com",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Instagram",
+      "href": "https://instagram.com",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "byKadir Calik",
+      "href": "https://x.com/kadircalik",
+      "class": [
+        "framer-rqU8p",
+        "framer-3VfYT",
+        "framer-r8pjzo",
+        "framer-v-r8pjzo",
+        "framer-1aq55ur"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Terms of Service",
+      "href": "../legal/terms-of-service#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Privacy",
+      "href": "../legal/privacy-policy#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Book a call",
+      "href": "../contact#top",
+      "class": [
+        "framer-5WkIW",
+        "framer-YXpXy",
+        "framer-1ka7nap",
+        "framer-v-1ka7nap",
+        "framer-heqrsu"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Formo\u00ae",
+      "href": "../#top",
+      "class": [
+        "framer-8V3MU",
+        "framer-10tfjik",
+        "framer-v-10tfjik",
+        "framer-1lc2mky"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Home",
+      "href": "../#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Projects",
+      "href": "../projects#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "About",
+      "href": "../about#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact",
+      "href": "../contact#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "X (Twitter)",
+      "href": "https://x.com/kadircalik",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "LinkedIn",
+      "href": "https://linkedin.com",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Instagram",
+      "href": "https://instagram.com",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "byKadir Calik",
+      "href": "https://x.com/kadircalik",
+      "class": [
+        "framer-rqU8p",
+        "framer-3VfYT",
+        "framer-r8pjzo",
+        "framer-v-r8pjzo",
+        "framer-1aq55ur"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Terms of Service",
+      "href": "../legal/terms-of-service#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Privacy",
+      "href": "../legal/privacy-policy#top",
+      "class": [
+        "framer-text",
+        "framer-styles-preset-1x5mes2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get TemplateGet Template",
+      "href": "https://framer.link/R4JkBEi",
+      "class": [
+        "framer-IrC61",
+        "framer-555bgc",
+        "framer-v-555bgc",
+        "framer-rjwgdt"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "href": "https://www.framer.com",
+      "class": [
+        "framer-6jWyo",
+        "framer-n0ccwk",
+        "framer-v-n0ccwk",
+        "framer-bmpgw8",
+        "__framer-badge"
+      ]
+    }
+  ],
+  "text_blocks": [
+    "Formo\u00ae",
+    "Projects",
+    "About",
+    "Contact",
+    "Start a project",
+    "Formo\u00ae",
+    "Projects",
+    "About",
+    "Contact",
+    "Start a project",
+    "Formo\u00ae",
+    "Stride",
+    "A sneaker e-commerce app designed for discovery and speed.",
+    "Client",
+    "Foot Locker Europe",
+    "Year",
+    "2026",
+    "Platform",
+    "iOS",
+    "Timeline",
+    "6 weeks",
+    "Next",
+    "Vel\u014d \u203a",
+    "Have a project in mind?Let's talk.",
+    "Have a project in mind?",
+    "Let's talk.",
+    "Book a call",
+    "Formo\u00ae",
+    "Navigate",
+    "Home",
+    "Projects",
+    "About",
+    "Contact",
+    "Connect",
+    "X (Twitter)",
+    "LinkedIn",
+    "Instagram",
+    "Based in",
+    "AMS",
+    "\u00a9 2026 Formo",
+    "Kadir Calik",
+    "Terms of Service",
+    "Privacy",
+    "Have a project in mind?Let's talk.",
+    "Have a project in mind?",
+    "Let's talk.",
+    "Book a call",
+    "Formo\u00ae",
+    "Navigate",
+    "Home",
+    "Projects",
+    "About",
+    "Contact",
+    "Connect",
+    "X (Twitter)",
+    "LinkedIn",
+    "Instagram",
+    "Based in",
+    "AMS",
+    "\u00a9 2026 Formo",
+    "Kadir Calik",
+    "Terms of Service",
+    "Privacy",
+    "Have a project in mind?Let's talk.",
+    "Have a project in mind?",
+    "Let's talk.",
+    "Book a call",
+    "Formo\u00ae",
+    "Navigate",
+    "Home",
+    "Projects",
+    "About",
+    "Contact",
+    "Connect",
+    "X (Twitter)",
+    "LinkedIn",
+    "Instagram",
+    "Based in",
+    "AMS",
+    "\u00a9 2026 Formo",
+    "Kadir Calik",
+    "Terms of Service",
+    "Privacy",
+    "Get Template",
+    "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+  ],
+  "css_vars_sample": [
+    "--token-891636ab-fba1-4e2b-b7de-942af9e88b66:#ffffff0f",
+    "--text-color:var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-text-color)))",
+    "--framer-text-color:var(--extracted-r6o4lv, var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa, rgb(0, 0, 0)))\">Formo<span class=\"framer-text\" style=\"--framer-letter-spacing:-0.05em\">\u00ae</span></p></div></a><!--/$--></div></div><div class=\"framer-1e4aex4\" data-framer-appear-id=\"1e4aex4\" data-framer-name=\"Right\" style=\"opacity:1",
+    "--framer-text-color:var(--token-17d6b33c-f060-4752-bfbb-5895a7caded6,#616161)",
+    "--framer-font-style:normal",
+    "--framer-letter-spacing:-.04em",
+    "--token-1ef9e3a0-a7df-44ca-bec3-2c6070b20405:#fff",
+    "--token-c15bf4c3-09d0-4615-ad47-6ff8401689be:#21d2ed",
+    "--selection-background-color:#c2c2c2",
+    "--selection-color:var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa,#000) ",
+    "--framer-paragraph-spacing:0px",
+    "--framer-text-background-padding:initial",
+    "--text-decoration-skip-ink:var(--framer-link-current-text-decoration-skip-ink,var(--framer-link-text-decoration-skip-ink,var(--framer-text-decoration-skip-ink)))",
+    "--framer-text-color:var(--extracted-r6o4lv, var(--token-17d6b33c-f060-4752-bfbb-5895a7caded6, rgb(138, 138, 138)))\">\u00a9 2026 Formo</p></div><div class=\"framer-1orba4p-container\"><!--$--><a class=\"framer-rqU8p framer-3VfYT framer-r8pjzo framer-v-r8pjzo framer-1aq55ur\" data-framer-name=\"Main\" href=\"https://x.com/kadircalik\" target=\"_blank\"><div class=\"framer-bxfhl0\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv:var(--token-17d6b33c-f060-4752-bfbb-5895a7caded6, rgb(138, 138, 138))",
+    "--framer-text-color:var(--extracted-r6o4lv, var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa, rgb(0, 0, 0)))\">Kadir Calik</p></div></div></a><!--/$--></div></div><div class=\"framer-1ty0h3k\" data-framer-name=\"Credit\"><div class=\"framer-elnkvg\" data-framer-name=\"Legal Wrapper\"><div class=\"framer-150n4ua\" data-framer-component-type=\"RichTextContainer\" style=\"transform:none\"><p class=\"framer-text framer-styles-preset-tr0wnr\" data-styles-preset=\"Rk3cFpOyY\" dir=\"auto\"><!--$--><a class=\"framer-text framer-styles-preset-1x5mes2\" data-styles-preset=\"LwPRszHlU\" href=\"../legal/terms-of-service#top\">Terms of Service</a><!--/$--></p></div><div class=\"framer-1xuo79n\" data-framer-component-type=\"RichTextContainer\" style=\"transform:none\"><p class=\"framer-text framer-styles-preset-tr0wnr\" data-styles-preset=\"Rk3cFpOyY\" dir=\"auto\"><!--$--><a class=\"framer-text framer-styles-preset-1x5mes2\" data-styles-preset=\"LwPRszHlU\" href=\"../legal/privacy-policy#top\">Privacy</a><!--/$--></p></div></div></div></div></div></footer></div><div class=\"ssr-variant hidden-1kuo0cw hidden-nsd5th\"><footer class=\"framer-snFGP framer-20EZ5 framer-m4huA framer-3VfYT framer-1o971q2 framer-v-6s683j\" data-framer-name=\"Tablet\" style=\"background-color:var(--token-f71d657c-4998-4a60-82fa-6ee88ba34cd5, rgb(255, 255, 255))",
+    "--framer-font-weight-bold-italic:700",
+    "--framer-will-change-override:none",
+    "--framer-text-decoration-offset:none",
+    "--framer-letter-spacing:-0.04em",
+    "--framer-text-color:var(--extracted-r6o4lv, var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa, rgb(0, 0, 0)))\">Formo<span class=\"framer-text\" style=\"--framer-letter-spacing:-0.05em\">\u00ae</span></p></div></a><!--/$--></div></div><div class=\"framer-12bbhwa\" data-framer-name=\"Menu\"><nav class=\"framer-4avul0\" data-framer-name=\"Quick Menu\"><div class=\"framer-1kmvg0n\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv:var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa, rgb(0, 0, 0))",
+    "--font-family:var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family)))",
+    "--font-variation-settings:normal",
+    "--framer-text-color:var(--extracted-r6o4lv, var(--token-17d6b33c-f060-4752-bfbb-5895a7caded6, rgb(138, 138, 138)))\"><!--$--><a class=\"framer-text framer-styles-preset-1x5mes2\" data-styles-preset=\"LwPRszHlU\" href=\"https://linkedin.com\" target=\"_blank\" rel>LinkedIn</a><!--/$--></p></div><div class=\"framer-bjfyyh\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv:var(--token-17d6b33c-f060-4752-bfbb-5895a7caded6, rgb(138, 138, 138))",
+    "--token-2afc6276-a361-463f-875c-ce886a672f84:#00000008",
+    "--text-underline-offset:var(--framer-link-current-text-decoration-offset,var(--framer-link-text-decoration-offset,var(--framer-text-decoration-offset)))",
+    "--font-style:var(--framer-link-hover-font-style,var(--framer-link-font-style,var(--framer-font-style)))",
+    "--1bd4d3i:rgb(0, 0, 0)",
+    "--border-top-width:0px\"><div class=\"framer-1n0498w\" data-framer-name=\"Spacer\"></div><div class=\"framer-aapucr\" data-framer-name=\"Title + Button\"><div class=\"framer-1je94f0\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-1qn201a:var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa, rgb(0, 0, 0))",
+    "--border-top-width:0px\"><div class=\"framer-aapucr\" data-framer-name=\"Title + Button\"><div class=\"framer-1je94f0\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-1qn201a:var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa, rgb(0, 0, 0))",
+    "--framer-text-background-color:initial",
+    "--extracted-r6o4lv:var(--token-17d6b33c-f060-4752-bfbb-5895a7caded6, rgb(138, 138, 138))",
+    "--text-transform:var(--framer-link-current-text-transform,var(--framer-link-text-transform,var(--framer-text-transform)))",
+    "--framer-text-stroke-color:initial",
+    "--framer-text-color:var(--extracted-r6o4lv, var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa, rgb(0, 0, 0)))\">Kadir Calik</p></div></div></a><!--/$--></div></div><div class=\"framer-1ty0h3k\" data-framer-name=\"Credit\"><div class=\"framer-elnkvg\" data-framer-name=\"Legal Wrapper\"><div class=\"framer-150n4ua\" data-framer-component-type=\"RichTextContainer\" style=\"transform:none\"><p class=\"framer-text framer-styles-preset-tr0wnr\" data-styles-preset=\"Rk3cFpOyY\" dir=\"auto\"><!--$--><a class=\"framer-text framer-styles-preset-1x5mes2\" data-styles-preset=\"LwPRszHlU\" href=\"../legal/terms-of-service#top\">Terms of Service</a><!--/$--></p></div><div class=\"framer-1xuo79n\" data-framer-component-type=\"RichTextContainer\" style=\"transform:none\"><p class=\"framer-text framer-styles-preset-tr0wnr\" data-styles-preset=\"Rk3cFpOyY\" dir=\"auto\"><!--$--><a class=\"framer-text framer-styles-preset-1x5mes2\" data-styles-preset=\"LwPRszHlU\" href=\"../legal/privacy-policy#top\">Privacy</a><!--/$--></p></div></div></div></div></div></footer></div></div><div class=\"framer-1sfha-container\"><!--$--><div></div><!--/$--></div><div class=\"framer-uzhmmj-container\" data-framer-appear-id=\"uzhmmj\" style=\"opacity:0.001",
+    "--framer-font-family:&quot",
+    "--framer-text-color:var(--extracted-r6o4lv, var(--token-201f7087-ca5c-461d-b9d1-ec3cde349dfa, rgb(0, 0, 0)))\">Formo<span class=\"framer-text\" style=\"--framer-letter-spacing:-0.05em\">\u00ae</span></p></div></a><!--/$--></div><div class=\"framer-8sisx5-container\" data-framer-name=\"Menu Icon\" name=\"Menu Icon\"><div name=\"Menu Icon\" class=\"framer-fP0kB framer-l1nkum framer-v-l1nkum\" data-framer-name=\"Menu\" data-highlight=\"true\" tabindex=\"0\" style=\"height:100%",
+    "--border-top-width:1px",
+    "--framer-text-color:var(--extracted-r6o4lv, var(--token-17d6b33c-f060-4752-bfbb-5895a7caded6, rgb(138, 138, 138)))\"><!--$--><a class=\"framer-text framer-styles-preset-1x5mes2\" data-styles-preset=\"LwPRszHlU\" href=\"../about#top\">About</a><!--/$--></p></div><div class=\"framer-1e7penm\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv:var(--token-17d6b33c-f060-4752-bfbb-5895a7caded6, rgb(138, 138, 138))",
+    "--token-f71d657c-4998-4a60-82fa-6ee88ba34cd5:#fff",
+    "--font-weight:var(--framer-link-font-weight,var(--framer-font-weight))",
+    "--framer-font-family:Inter, Inter Placeholder, sans-serif",
+    "--framer-text-decoration-color:none",
+    "--framer-text-background-corner-shape:initial",
+    "--token-e93ef868-b96d-4b71-915b-cf629d1dcdd3:#00000012",
+    "--border-bottom-width:0px",
+    "--framer-letter-spacing:-0.4px",
+    "--overflow-clip-fallback:hidden",
+    "--framer-text-stroke-width:initial",
+    "--framer-link-text-background-padding:4px",
+    "--framer-font-size:40px"
+  ]
+}
